@@ -1,0 +1,9 @@
+{
+    "name": "Fruity #1",
+    "description": "A collection of 10,000 Fruits enabled by ERC404, an experimental token standard",
+    "image": "https://raw.githubusercontent.com/Gibberish20/erc404_test/main/fruity-1/orange.gif",
+    "attributes": [
+        {"trait_type": "Color",
+        "value": "Orange"}
+    ]
+}
